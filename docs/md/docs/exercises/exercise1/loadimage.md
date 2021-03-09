@@ -7,7 +7,7 @@ Adapted from [here](https://p5js.org/es/examples/image-load-and-display-image.ht
 ```md
 > :P5 sketch=/docs/sketches/image-canvas.js, width=720, height=560
 >
-> let img; // Declarar variable 'img'.
+> let img; 
 > function setup() {
 >  createCanvas(720, 560);
 >  img = loadImage('/docs/exercises/cat.png'); // Cargar la imagen
